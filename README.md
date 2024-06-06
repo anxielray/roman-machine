@@ -1,6 +1,6 @@
 # <font color=gree>**_THE MACHINE FROM ROME_** </font>
 
-## <font color=orange> _Raymond Ogwel's_ </font>
+## [<font color=orange> _Raymond Ogwel's_ </font>](https://learn.zone01kisumu.ke/git/rogwel)
 
 **What you shouldn't do**
 
@@ -22,8 +22,8 @@
 - Once the download is complete, you need to update and upgrade your Go
 - With all that done, now let's run the following command on your machine terminal to install the program;
 
-        git clone https\\..
-        cd .\roman-numerals\
+         git clone https://github.com/anxielray/roman-machine.git
+        cd .\roman-machine\
 
 You will have a free space to now improve your speed in Math on the topic, Roman Numerals.
 
@@ -53,7 +53,7 @@ You will have a free space to now improve your speed in Math on the topic, Roman
 
 _@Instagram_
 
-- [<font color = "orange">_Raymond Ogwel_</font>]()
+- [<font color = "orange">_Raymond Ogwel_</font>](https://www.instagram.com/anxiel_world?igsh=Ym1la3hibG5kdXVj)
 
     <font color = "gree">
 
@@ -63,4 +63,4 @@ _@WhattsApp_</font>
 
 <font color = blue> _@ X_</font>
 
-- [<font color = "cyan">_Anxiel World_</font>]()
+- [<font color = "cyan">_Anxiel World_</font>](https://x.com/AnxielW?t=ptK5T27DPT9tPozeTGLHlA&s=03)
